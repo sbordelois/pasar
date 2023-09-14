@@ -1,0 +1,80 @@
+.nombrecadaPeli{
+    padding: 0px;
+    margin: 0px;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.texto_foto{
+    color: white;
+}
+
+.cadaPeli{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: center;
+    height: 100%;
+    align-items: center;
+    margin-top: 5px;
+    max-width: 200px;
+}
+
+/* .botones{
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    padding: 3px;
+    width: 12vw;
+    justify-self: center;
+    text-align: center;
+    align-self: center;
+    margin: 10px;
+    
+} */
+
+.botones like {
+    border-radius: 10px;
+    justify-self: center;
+    text-align: center;
+    align-self: center;
+
+    
+}
+
+.link{
+    color: black;
+    font-family: 'Work Sans', sans-serif;
+    font-size: 15px;
+    padding: 3px;
+    border-radius: 10px;
+    width: auto;
+    justify-self: center;
+    text-align: center;
+    align-self: center;
+    margin: 10px;
+    text-decoration: none;
+}
+
+
+.portada{
+    height: 210px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.poster{
+    height: 300px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+.ocultar{
+    display: none;
+}
+.ver{
+    display: block;
+}
